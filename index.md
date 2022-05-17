@@ -8,7 +8,7 @@ Hello! My name is Landon Knipp, and I am currently going into my fourth year of 
 
 ### Plant Moisture Detection System
 
-put url here
+[plantsensor](https://youtu.be/JIw86oj8DYE)
 
 ### Modelling 2D Pathlines of Planar Vortices
 
