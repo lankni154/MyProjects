@@ -2,21 +2,40 @@
 
 You can use the [editor on GitHub](https://github.com/lankni154/projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-[quadrotor](https://lankni154.github.io/projects/quadrotor.pdf)
 
-[planarvortices](https://lankni154.github.io/projects/planarvortices.pdf)
 
-[nacaprofiles](https://lankni154.github.io/projects/nacaprofiles.pdf)
 
-[cylinderflow](https://lankni154.github.io/projects/cylinderflow.pdf)
 
-[roboticarm](https://lankni154.github.io/projects/roboticarm.pdf)
+
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-### Markdown
+### Plant Moisture Detection System
+
+
+
+### Modelling 2D Pathlines of Planar Vortices
+
+[quadrotor](https://lankni154.github.io/projects/quadrotor.pdf)
+
+### Determining Velocity & Pressure Values On Surface of a Cylinder
+
+[planarvortices](https://lankni154.github.io/projects/planarvortices.pdf)
+
+### Analyzing the Behavior of Different NACA Profiles at Different Angles of Attack In a Flow Field
+
+[nacaprofiles](https://lankni154.github.io/projects/nacaprofiles.pdf)
+
+### Designing Blades for a Human Powered Quad-Rotor Hovercraft
+
+[cylinderflow](https://lankni154.github.io/projects/cylinderflow.pdf)
+
+### Robotic Arm Mimicking the Motion of the User
+
+[roboticarm](https://lankni154.github.io/projects/roboticarm.pdf)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
