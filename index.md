@@ -1,21 +1,14 @@
-## Welcome to my Projects
+## Welcome to My Projects
 
 You can use the [editor on GitHub](https://github.com/lankni154/projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-
-
-
-
-
-
-
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Hello! My name is Landon Knipp, and I am currently going into my fourth year of undergraduate studies at the University of California, Berkeley. I am currenlty studying Mechanical Engineering, Aerospace Engineering, and Astrophysics. Learning more about the universe and imagining what is out there has intrigued me since I was a child, and I have always had an appreciation for the environment. Naturally, this is why I want to focus my career around sustainability and astrophysics research. Below are a few projects that I have had the time to work on, and have taught me so many new skills. I am excited to share what I have learned with you!
 
 ### Plant Moisture Detection System
 
-
+put url here
 
 ### Modelling 2D Pathlines of Planar Vortices
 
