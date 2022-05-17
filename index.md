@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/lankni154/projects/edit/gh
 
 [quadrotor](https://lankni154.github.io/projects/quadrotor.pdf)
 [planarvortices](https://lankni154.github.io/projects/planarvortices.pdf)
-[nacaprofiles](https://lankni154.github.io/projects/nacaprofiles)
-[cylinderflow](https://lankni154.github.io/projects/cylinderflow)
+[nacaprofiles](https://lankni154.github.io/projects/nacaprofiles.pdf)
+[cylinderflow](https://lankni154.github.io/projects/cylinderflow.pdf)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
