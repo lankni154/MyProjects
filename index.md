@@ -12,11 +12,11 @@ put url here
 
 ### Modelling 2D Pathlines of Planar Vortices
 
-[quadrotor](https://lankni154.github.io/projects/quadrotor.pdf)
+[planarvortices](https://lankni154.github.io/projects/planarvortices.pdf)
 
 ### Determining Velocity & Pressure Values On Surface of a Cylinder
 
-[planarvortices](https://lankni154.github.io/projects/planarvortices.pdf)
+[cylinderflow](https://lankni154.github.io/projects/cylinderflow.pdf)
 
 ### Analyzing the Behavior of Different NACA Profiles at Different Angles of Attack In a Flow Field
 
@@ -24,7 +24,7 @@ put url here
 
 ### Designing Blades for a Human Powered Quad-Rotor Hovercraft
 
-[cylinderflow](https://lankni154.github.io/projects/cylinderflow.pdf)
+[quadrotor](https://lankni154.github.io/projects/quadrotor.pdf)
 
 ### Robotic Arm Mimicking the Motion of the User
 
