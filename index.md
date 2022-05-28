@@ -8,7 +8,7 @@ Hello! My name is Landon Knipp, and I am currently going into my fourth year of 
 
 ### Resume
 
-[resume] (https://lankni54.github.io/resume/Official_Resume.pdf)
+[resume](https://lankni154.github.io/resume/Official_Resume.pdf)
 
 
 ### Plant Moisture Detection System
