@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Hello! My name is Landon Knipp, and I am currently going into my fourth year of undergraduate studies at the University of California, Berkeley. I am currenlty studying Mechanical Engineering, Aerospace Engineering, and Astrophysics. Learning more about the universe and imagining what is out there has intrigued me since I was a child, and I have always had an appreciation for the environment. Naturally, this is why I want to focus my career around sustainability and astrophysics research. Below are a few projects that I have had the time to work on, and have taught me so many new skills. I am excited to share what I have learned with you!
 
+### Resume
+
+[resume] (https://lankni54.github.io/resume/Official_Resume.pdf)
+
+
 ### Plant Moisture Detection System
 
 [plantsensor](https://youtu.be/JIw86oj8DYE)
