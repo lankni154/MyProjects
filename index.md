@@ -2,7 +2,7 @@ Hello! My name is Landon Knipp, and I am currently going into my fourth year of 
 
 ### Resume
 
-[resume](https://lankni154.github.io/resume/Official_Resume.pdf)
+[resume](https://lankni154.github.io/resume_and_transcript/Official_Resume.pdf)
 
 
 ### Plant Moisture Detection System
@@ -28,5 +28,9 @@ Hello! My name is Landon Knipp, and I am currently going into my fourth year of 
 ### Robotic Arm Mimicking the Motion of the User
 
 [roboticarm](https://lankni154.github.io/projects/roboticarm.pdf)
+
+### Transcript
+
+[transcript](https://lankni154.github.io/resume_and_transcript/Unofficial_Transcript.pdf)
 
 
